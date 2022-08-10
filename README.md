@@ -1,0 +1,2 @@
+- 👀 I’m interested in Programming, Cloud
+- 🌱 I’m currently learning Python
